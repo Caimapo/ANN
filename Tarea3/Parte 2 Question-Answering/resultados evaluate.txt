@@ -1,0 +1,38 @@
+C:\Users\Caimapo\Desktop\U\ML\ANN\Tarea3\Parte 2 Question-Answering>py -3 evaluate-v2.0.py dev-v2.0.json predictions1
+{
+  "exact": 0.0,
+  "f1": 0.007259367993807478,
+  "total": 11873,
+  "HasAns_exact": 0.0,
+  "HasAns_f1": 0.014539554013238224,
+  "HasAns_total": 5928,
+  "NoAns_exact": 0.0,
+  "NoAns_f1": 0.0,
+  "NoAns_total": 5945
+}
+
+C:\Users\Caimapo\Desktop\U\ML\ANN\Tarea3\Parte 2 Question-Answering>py -3 evaluate-v2.0.py dev-v2.0.json predictions2
+{
+  "exact": 0.050534826918217805,
+  "f1": 0.052504389403235534,
+  "total": 11873,
+  "HasAns_exact": 0.0,
+  "HasAns_f1": 0.0039447731755424065,
+  "HasAns_total": 5928,
+  "NoAns_exact": 0.10092514718250631,
+  "NoAns_f1": 0.10092514718250631,
+  "NoAns_total": 5945
+}
+
+C:\Users\Caimapo\Desktop\U\ML\ANN\Tarea3\Parte 2 Question-Answering>py -3 evaluate-v2.0.py dev-v2.0.json predictions3
+{
+  "exact": 0.042112355765181506,
+  "f1": 0.04482783596046015,
+  "total": 11873,
+  "HasAns_exact": 0.0,
+  "HasAns_f1": 0.0054387476988096185,
+  "HasAns_total": 5928,
+  "NoAns_exact": 0.08410428931875526,
+  "NoAns_f1": 0.08410428931875526,
+  "NoAns_total": 5945
+}
