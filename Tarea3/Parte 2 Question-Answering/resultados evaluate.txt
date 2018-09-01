@@ -36,3 +36,15 @@ C:\Users\Caimapo\Desktop\U\ML\ANN\Tarea3\Parte 2 Question-Answering>py -3 evalua
   "NoAns_f1": 0.08410428931875526,
   "NoAns_total": 5945
 }
+C:\Users\Caimapo\Desktop\U\ML\ANN\Tarea3\Parte 2 Question-Answering>py -3 evaluate-v2.0.py dev-v2.0.json predictions4
+{
+  "exact": 0.46323591341699655,
+  "f1": 0.9167586835479324,
+  "total": 11873,
+  "HasAns_exact": 0.0,
+  "HasAns_f1": 0.9083461285027957,
+  "HasAns_total": 5928,
+  "NoAns_exact": 0.9251471825063078,
+  "NoAns_f1": 0.9251471825063078,
+  "NoAns_total": 5945
+}
